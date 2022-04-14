@@ -1,0 +1,76 @@
+Nombre: Gaspar de Larra
+Clan: Toreador
+Concepto: Un estafador más retorcido que un nudo
+Complicación: La curiosidad mató al gato
+Aspectos Adicionales: 
+    Hice la mili con lanza
+    Lengua de plata
+    Traficante de arte
+
+Desventajas:
+    Curioso (mayor)
+    Avaricioso (menor)
+    Leal (menor)
+
+Ventajas:
+    Carisma
+    Generación (vampiro moderno)
+    Nuevos Poderes
+
+Potencia de Sangre:
+    ## d6
+
+Bestia:
+    # d4
+
+Paso:   6
+Parada: 6 / 8
+Dureza: 5
+
+Atributos:
+    Agilidad    ### d8
+    Astucia     ##  d6
+    Espíritu    ##  d6
+    Fuerza      ##  d6
+    Vigor       ##  d6
+
+Habilidades:
+    Atletismo   #   d4
+    Conocimientos Generales # d4
+    Notar   ##   d6
+    Persuadir   ##   d6
+    Sigilo  #  d4
+    Ocultismo   #   d4
+    Tecnología  #  d4
+    Latrocinio #    d4
+    Pelea   ### d8
+    Disparar    ### d8
+
+    //en la ficha antigua tiene reparar y conducir d4
+
+Disciplinas y Poderes:
+    Celeridad (agi) #   d6
+        Reflejos Rápidos
+        Presteza
+    Presencia (esp)     #   d6
+        Fascinación
+        Beso Irresitible
+    Auxpex (ast)        ##  d6
+        Sentidos Agudizados #   d4
+
+Armas y equipo:
+    Mordisco    Fue + d6 Agravado
+    Escopeta dos cañones    3d6     12/24/48
+    Palo afilado    Fue + d4    (arma improvisada)  //ajustar el daño (como ponerle un -2, p.ej.), mirar las reglas de armas improvisadas
+    Ballesta    2d8     15/30/60
+    Porra   Fue + d6
+
+Fatiga:
+
+Heridas:
+
+Consecuencias:
+
+Hambre: gusanillo
+
+Benis: 3

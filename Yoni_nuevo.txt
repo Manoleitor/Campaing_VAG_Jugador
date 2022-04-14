@@ -1,0 +1,77 @@
+Nombre: Yoni
+Clan: Brujah
+Concepto: Matón a sueldo al que le gustan las guerras
+Complicación: Confiado
+Aspectos Adicionales: 
+    El cabrón pulgoso más duro del barrio
+    Despistado
+    Bruto
+
+Desventajas:
+    Analfabeto (menor)
+    Leal (menor)
+    Exceso de confianza (mayor)     //En la hoja antigua es Curioso
+
+Ventajas:
+    Generación (vampiro moderno)
+    Mejora Fue
+    Nuevos Poderes
+
+Potencia de Sangre:
+    ## d6
+
+Bestia:
+    # d6 (cínico)
+
+Paso:   6
+Parada: 7
+Dureza: 6
+
+Atributos:
+    Agilidad    ### d8
+    Astucia     #  d4
+    Espíritu    #  d4
+    Fuerza      ####  d10
+    Vigor       ##  d6
+
+Habilidades:
+    Atletismo   ####   d10
+    Conocimientos Generales # d4
+    Notar   ##   d6
+    Persuadir   ##   d6
+    Sigilo  ##  d6
+    Pelea   #### d10
+    Conducir    # d4
+
+    //tal vez sobra un punto de habilidad
+    //en la ficha antigua tiene conducir d6, atletismo d8, notar d4, sin Persuadir, Ocultimo d4
+
+Disciplinas y Poderes:
+    Potencia #### d10
+        Cuerpo Letal
+        Bravura (1 peaje)
+        Alimentación brutal
+        Sorbo de Poderío    (para vampiros dura una noche, hasta la siguiente alimentación o hasta quedar famélico)
+    Auxpex (ast)        ##  d6
+        Percibir lo Invisible #   d4
+
+Armas y equipo:
+    Hacha   (con bravura)   Fue + Potencia(d10) + d8 PA 4
+    Mordisco    Fue + Potencia(d10) + d6 Agravado   PA 4
+    Cuchillo    Fue + Potencia(d10) + d4 PA 4
+    Puños   Fue + Potencia(d10) + d4 PA 4
+
+    //convendría calcular el alcance y daño que se podría obtener al lanzar el hacha, el cuchillo o, ya puestos, una piedra
+
+Avances:
+    Matón
+
+Fatiga:
+
+Heridas:
+
+Consecuencias:
+
+Hambre: gusanillo
+
+Benis: 3

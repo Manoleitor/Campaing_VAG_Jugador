@@ -1,0 +1,78 @@
+Nombre: Hastos "Investigación" Gonzalez
+Clan: Tremere
+Concepto: Investigador Arrogante
+Complicación: Tullido
+Aspectos Adicionales: 
+    No disfruto del sabor de la sangre
+
+Desventajas:
+    Cojo (mayor)
+    Curioso (mayor)
+    Arrogante (mayor)
+
+Ventajas:
+    Erudito (ocultismo)
+    Investigador
+
+Potencia de Sangre:
+    # d4
+
+Bestia:
+    # d4 
+
+Paso:   4
+Parada: 5 (6)
+Dureza: 5 (6)
+
+Atributos:
+    Agilidad    ## d6
+    Astucia     ###  d8
+    Espíritu    ###  d8
+    Fuerza      #  d4
+    Vigor       ##  d6
+
+Habilidades:
+    Atletismo   #   d4
+    Conocimientos Generales # d4
+    Notar   ###   d8
+    Persuadir   #   d4
+    Sigilo  ##  d6
+    Pelea   ## d6
+    Conducir    # d4
+    Tecnología  #   d4
+    Ocultismo   ### d8 +2
+    Investigar  ### d8 +2
+    Disparar    ##  d6
+
+    //antes tenía habilidad de callejeo. Ahora esa habilidad no existe
+    //antes notar d4
+    //Tal vez sobren 3 puntos de habilidades
+
+Disciplinas y Poderes:
+    Dominación d6
+        Nublar la Memoria
+        Mesmerismo  (1 Peaje)
+    Auxpex (ast)    # d4
+        Percibir lo Invisible #   d4
+
+Armas y equipo:
+    Estoque  Fue + d4   Parada +1
+    Mordisco    Fue + d6 Agravado
+    Derringer   3/6/12
+    .357    12/24/48
+    Repetidora  12/24/48    3d6
+    
+    
+
+Avances:
+    Espíritu d8
+
+Fatiga:
+
+Heridas:
+
+Consecuencias:
+
+Hambre: gusanillo
+
+Benis: 3

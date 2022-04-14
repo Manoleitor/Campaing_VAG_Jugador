@@ -1,0 +1,73 @@
+Nombre: Iris
+Clan: Malkavian
+Concepto: Profesora de Historia Tostón en el nocturno
+Complicación: Sabelotodo
+Aspectos Adicionales: Cuidadosa
+
+Desventajas:
+    Cauto
+    Manía (orden)
+
+Ventajas:
+    Afortunado
+    Nuevos Poderes
+    Nuevos Poderes
+
+Potencia de Sangre:
+    d4
+
+Bestia:
+    d4
+
+Paso:   6
+Parada: 6
+Dureza: 5
+
+Atributos:
+    Agilidad    ### d8
+    Astucia     ##  d6
+    Espíritu    ##  d6
+    Fuerza      #   d4
+    Vigor       ##  d6
+
+Habilidades:
+    Atletismo   #   d4
+    Conocimientos Generales ## d6
+    Notar   ##   d6
+    Persuadir   #   d4
+    Sigilo  ##  d6
+    Ocultismo   #   d4
+    Tecnología  ##  d6
+    Pelea   ### d8
+    Disparar    ### d8
+
+    //En la ficha antigua tiene Pelea, disparar d6 e investigar d6 
+
+Disciplinas y Poderes:
+    Ofuscación (agi)    ### d8
+        Capa de Sombras
+        Paso Invisible (1 peaje)
+        Máscara de las mil caras (1 peaje)
+    Dominación (esp)    ##  d6
+        Nublar la Memoria
+        Mesmerismo (1 peaje)
+    Auxpex (ast)        ##  d6
+        Ver lo Invisible
+        Premoción (1 peaje)
+
+Armas y equipo:
+    Puño    Fue
+    Mordisco    Fue + d6 Agravado
+    Escopeta repetidora     3d6     12/24/48
+    Puño Americano  Fue + d4
+    Navaja  Fue + d4
+
+Fatiga:
+
+Heridas:
+
+Consecuencias:
+
+Hambre: gusanillo
+
+Benis: 4
